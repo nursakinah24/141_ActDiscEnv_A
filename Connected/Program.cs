@@ -30,7 +30,7 @@ namespace Connected
         }
         private static string GetConnectionString()
         {
-            return "data source=LAPTOP-KINALAKA\\NURSAKINAH;database=ProdiTI;User Id=sa;Password=Palu24072002";
+            return "data source=LAPTOP-KINALAKA\\NURSAKINAH;database=ProdiTI; MultipleActiveResultSets=True; User Id=sa;Password=Palu24072002";
         }
     }
 }
