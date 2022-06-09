@@ -79,9 +79,9 @@ namespace DisconnectedEnvironment
             cbDesignation.Items.Add("MANAGER");
             cbDesignation.Items.Add("AUTHOR");
             cbDesignation.Items.Add("DESIGNER");
-            cbDesignation.Items.Add("MARKETING");
-            cbDesignation.Items.Add("FINANCE");
-            cbDesignation.Items.Add("IDD");
+            cbDepartment.Items.Add("MARKETING");
+            cbDepartment.Items.Add("FINANCE");
+            cbDepartment.Items.Add("IDD");
             cmdSave.Enabled = false;
         }
 
